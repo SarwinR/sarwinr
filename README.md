@@ -66,7 +66,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
