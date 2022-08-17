@@ -83,7 +83,6 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sarwinr&&style=flat-square" align="center" />
-<img src="https://skyline.github.com/SarwinR/2022" align="center" />
 </div>  
   
 
