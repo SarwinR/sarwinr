@@ -7,10 +7,10 @@
 ### <div align="center">I'm Sarwin.</div>  
   
 
-- 🔭 I’m currently working on my blog website  
+- 🔭 I’m currently working on [sheetdb.py](https://github.com/SarwinR/sheetdb.py)
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently revising for my exams 😪
   
 
 <br/>  
