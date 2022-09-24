@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [sheetdb.py](https://github.com/SarwinR/sheetdb.py)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@rsarwin)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sarwinr)
 
 <br>
 
