@@ -27,11 +27,11 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwinr&show_icons=true&locale=en&layout=compact" alt="sarwinr" /></p>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=default&count_private=true" alt="sarwinr" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sarwinr" /></p>
+<br>
 
-![sarwinr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=default)
+<div align="center"><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true" alt="sarwinr" /></div>
 
 <br>
 
