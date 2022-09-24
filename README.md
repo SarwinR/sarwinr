@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://twitter.com/sarwinwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarwinwastaken" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarwinr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarwinr" height="30" width="40" /></a>
-<a href="https://medium.com/@rsarwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rsarwin" height="30" width="40" /></a>
+<a href="https://medium.com/@sarwinr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rsarwin" height="30" width="40" /></a>
 </p>
 
 <br>
