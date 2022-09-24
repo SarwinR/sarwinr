@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sarwinr" /></p>
 
-![sarwinr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=radical)
+![sarwinr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwinr&show_icons=true&theme=default)
 
 <br>
 
