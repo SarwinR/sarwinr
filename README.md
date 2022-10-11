@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm sarwin</h1>
 <h4 align="center">I am an aspiring software engineer with a passion for the technology industry. I am always up for a challenge and learning is one of my hobbies.</h4>
 
-[![@sarwinr's Holopin board](https://holopin.io/api/user/board?user=sarwinr)](https://holopin.io/@sarwinr)
-
 <br>
 
 - 🔭 I’m currently working on a screte project!
@@ -12,6 +10,8 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@sarwinr)
 
 <br>
+
+[![@sarwinr's Holopin board](https://holopin.io/api/user/board?user=sarwinr)](https://holopin.io/@sarwinr)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
