@@ -5,11 +5,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [sheetdb.py](https://github.com/SarwinR/sheetdb.py)
+- 🔭 I’m currently working on a screte project!
 
-- 🌱 I’m currently learning **TensorFlow**
-
-- 👯 I’m looking to collaborate on [sheetdb.py](https://github.com/SarwinR/sheetdb.py)
+- 🌱 I’m currently learning **ThreeJs**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sarwinr)
 
