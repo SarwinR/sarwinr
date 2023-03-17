@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on a screte project!
+- 🔭 I’m currently working on a secrete project!
 
 - 🌱 I’m currently learning **ThreeJs**
 
