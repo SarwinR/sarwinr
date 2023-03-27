@@ -3,11 +3,10 @@
 
 <br>
 
-- 🔭 I’m currently working on a secrete project!
+- 🔭 I’m currently working on my Portfolio Website 
 
-- 🌱 I’m currently learning **ThreeJs**
+- 🌱 I’m currently learning **AI Stuff 👀**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@sarwinr)
 
 <br>
 
