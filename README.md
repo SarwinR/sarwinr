@@ -3,8 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on my Portfolio Website 
-
+- 🔭 I’m currently working on [MyGymBuddy](https://github.com/my-gym-buddy/my-gym-buddy-flutter) (commits welcomed 😀)
 - 🌱 I’m currently learning **AI Stuff 👀**
 
 
