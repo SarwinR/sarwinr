@@ -1,6 +1,5 @@
 # **Hi, I'm Sarwin 👋**
 
-🚀 **Associate Software Developer** at **Dayforce**  
 💻 Passionate about **Open Source Stuffs** and **AI**  
 🌱 Exploring **AI**  
 🎯 Always **learning**, **building**, and **sharing knowledge**  
